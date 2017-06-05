@@ -13,7 +13,11 @@ weight = 1
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 1, part 1](https://www.youtube.com/watch?v=mhtpxtVSwfg&index=1&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | (more soon...)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 1, part 1](https://www.youtube.com/watch?v=mhtpxtVSwfg&index=1&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=9XobHYaiqFs&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=2) | [3](https://www.youtube.com/watch?v=A_ZQ2vNJVgM&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=3) | [4](https://www.youtube.com/watch?v=BmLs_5G1y2E&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=4) | [5](https://www.youtube.com/watch?v=OxNNiwMyKtA&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=5) | [6](https://www.youtube.com/watch?v=O6jH7kvNiqs&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=6)
+
+Afternoon:
+
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [1](https://www.youtube.com/watch?v=q_K_XXxfcsE&index=1&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [2](https://www.youtube.com/watch?v=gX8YH7xXOqo&index=2&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [3](https://www.youtube.com/watch?v=qQRQ4SwRLqA&index=3&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [4](https://www.youtube.com/watch?v=UdofFaQQV4Y&index=4&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [5](https://www.youtube.com/watch?v=A8_DUjAaNDE&index=5&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [6](https://www.youtube.com/watch?v=N4iPjyE6Hic&index=6&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [7](https://www.youtube.com/watch?v=spGLEQyrC5M&index=7&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [8](https://www.youtube.com/watch?v=3JqiHc3aHuw&index=8&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [9](https://www.youtube.com/watch?v=r5xS1HdC7c4&index=9&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa)
 
 ## Topics
 
