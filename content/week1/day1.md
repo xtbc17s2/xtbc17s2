@@ -13,11 +13,7 @@ weight = 1
 
 Morning:
 
-* [Full Playlist]() | [Day 1, part 1]() | [2]() | [3]()
-
-Afternoon:
-
-* [Full Playlist]() | [Day 1, part 1]() | [2]() | [3]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 1, part 1](https://www.youtube.com/watch?v=mhtpxtVSwfg&index=1&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | (more soon...)
 
 ## Topics
 
@@ -121,14 +117,14 @@ button.onclick((ev) => {
 
 ## Homework
 
-Add another input to the form.
-Use the values from both inputs in the `h1`.
+* Add another input to the form.
+* Use the values from both inputs in the `h1`.
 
 ### Super Mega Bonus Credit
 
-Add an empty paragraph to the page.
-Use the form values to do something with that paragraph.
+* Add an empty paragraph to the page.
+* Use the form values to do something with that paragraph.
 
-### Super Mega Bonus Credit Hyper Fighting
+### Super Mega Bonnus Credit Hyper Fighting
 
-Change the appearance of the paragraph (think CSS) based on a value from form.
+* Change the appearance of the paragraph (think CSS) based on a value from the form.
