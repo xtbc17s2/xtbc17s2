@@ -27,18 +27,15 @@ Morning:
   * Class name (`.theClass`, `p.theClass`, etc.)
 * Basic DOM manipulation
   * `document.querySelector`/`document.querySelectorAll`
-  * `.textContent`/`.innerHTML`
+  * `.textContent`
 * Developer console
   * `console.log`
   * `console.group/.groupEnd/.groupCollapsed`
 * Basic [event](https://www.w3schools.com/js/js_events.asp) handling
-  * `onsubmit`
-  * Anonymous functions
-  * `.preventDefault`
+  * [Events in JavaScript](https://www.kirupa.com/html5/javascript_events.htm) - blog post with more detail than we discussed in class
+  * `.addEventListener()` - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+  * `.preventDefault()`
   * `.target`
-* Template strings
-  * String interpolation, _e.g._ `` `Hi, ${name}` ``
-  * Multi-line strings
 * Emmet abbreviations for code editors ([syntax reference](https://docs.emmet.io/abbreviations/syntax/))
 
 ## Examples
