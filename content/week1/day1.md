@@ -1,18 +1,29 @@
 +++
-date = "2017-05-15T11:13:46-04:00"
+date = "2017-06-05T11:13:46-04:00"
 title = "Day 1: Introduction"
-next="/week1/day2"
 prev="/week1"
 toc = true
 weight = 1
 
 +++
 
-<date>Monday, May 15, 2017</date>
+<date>Monday, June 5, 2017</date>
+
+## Lecture Videos
+
+Morning:
+
+* [Full Playlist]() | [Day 1, part 1]() | [2]() | [3]()
+
+Afternoon:
+
+* [Full Playlist]() | [Day 1, part 1]() | [2]() | [3]()
 
 ## Topics
+
 * History of JavaScript and the Web
 * Getting the most out of a coding bootcamp
+* Starting a project with git
 * Anatomy of an HTML element ([tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes), [text content](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent))
 * Basic CSS selector syntax
   * Element name (`div`, `h1`, `p`, etc.)
@@ -34,7 +45,38 @@ weight = 1
   * Multi-line strings
 * Emmet abbreviations for code editors ([syntax reference](https://docs.emmet.io/abbreviations/syntax/))
 
-## DOM Manipulation
+## Examples
+
+### Git
+
+#### Starting a new project with a git repository
+
+First make a new directory and then navigate into the new directory.  Then start a new repository with `git init`.
+
+{{< term >}}
+mkdir my_new_project
+cd my_new_project
+git init
+{{< /term >}}
+
+To be able to make our first commit, we need to first add something to our empty project folder.  A common first choice is a `README.md` file, which is a document written in [markdown](https://guides.github.com/features/mastering-markdown/) that provides information about the project.
+
+{{< term >}}
+echo "# My New Project" >> README.md
+git add .
+git commit -m "Initial commit"
+{{< /term >}}
+
+Once we have our first commit, we can add a 'remote' for our repository, like [github](https://github.com) or [bitbucket](https://bitbucket.org/).  For github, log in to github.com, then hit the '+' button in the top right of the screen to add a new repository.  Then, it will give you the following commands to run from the command line.
+
+{{< term >}}
+git remote add origin git@github.com:myusername/my_new_project.git
+git push -u origin master
+{{< /term >}}
+
+This adds the github remote as 'origin' and sets it as the default for when you push your changes.  From this point forward, just type `git push` to push your changes to the remote.
+
+### DOM Manipulation
 {{< code html >}}
 &lt;div class=&quot;person&quot;&gt;
   &lt;h2 id=&quot;firstName&quot;>Han&lt;/h2&gt;
@@ -75,14 +117,18 @@ button.onclick((ev) => {
 ## Projects
 
 ### People Factory
-[Morning](https://github.com/xtbc17s1/people-factory/tree/3a7d947fa8b62fe6516a801db89bd2e0899a5385) | [Afternoon](https://github.com/xtbc17s1/people-factory/tree/9d9e368d4125a2a3a1af549eb299ac9ebfdfad88)
+[Morning](https://github.com/xtbc17s2/people-factory/tree/f1df2ad6cd6f97755e9c79262ccfaa3dcbd6ac79)
 
 ## Homework
 
-Add form values to `.details` using `document.createElement` and `appendChild`, instead of `innerHTML`.
+Add another input to the form.
+Use the values from both inputs in the `h1`.
 
-#### Bonus Credit
-Break out some of this functionality into a separate function.
+### Super Mega Bonus Credit
 
-#### Super Mega Bonus Credit
-Do not hard-code the names of the fields in your JavaScript. Loop over all the elements in the form.
+Add an empty paragraph to the page.
+Use the form values to do something with that paragraph.
+
+### Super Mega Bonus Credit Hyper Fighting
+
+Change the appearance of the paragraph (think CSS) based on a value from form.
