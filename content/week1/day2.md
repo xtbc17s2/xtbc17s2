@@ -13,12 +13,12 @@ weight = 2
 
 Morning:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 2, part 1](https://www.youtube.com/watch?v=lpEy_5sNFIs&index=7&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=DQtDHjBlE1U&index=8&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=Fq6wX8ntapk&index=9&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=3VCPCD_cZfA&index=10&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=qaguvzM0MkI&index=11&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=zvw7yIHZKfY&index=12&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=8MOUnB_IZaA&index=13&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=lw9iupqUtE8&index=14&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
+* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 2, part 1](https://www.youtube.com/watch?v=lpEy_5sNFIs&index=7&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=DQtDHjBlE1U&index=8&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=Fq6wX8ntapk&index=9&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=3VCPCD_cZfA&index=10&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=qaguvzM0MkI&index=11&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=zvw7yIHZKfY&index=12&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=8MOUnB_IZaA&index=13&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=lw9iupqUtE8&index=14&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [9](https://www.youtube.com/watch?v=c-BmDlC5gfE&index=15&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [10](https://www.youtube.com/watch?v=dzC5Bh3GHTg&index=16&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [11](https://www.youtube.com/watch?v=Hc-Q8soQBSY&index=17&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [12](https://www.youtube.com/watch?v=4IpnBM9y2m0&index=18&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [13](https://www.youtube.com/watch?v=iqybKJbldRk&index=19&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
  
 Afternoon:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day2, part 1]() | [2]() | [3]()
-
+* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day2, part 1](https://www.youtube.com/watch?v=bqFQy5hmFrY&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=10) | [2](https://www.youtube.com/watch?v=lOVD50uiZo0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=11) | [3](https://www.youtube.com/watch?v=jW-3hIwbLbM&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=12) | [4](https://www.youtube.com/watch?v=U6suwuSPMAg&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=13) | [5](https://www.youtube.com/watch?v=I5lfMhtHC3w&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=14) | [6](https://www.youtube.com/watch?v=Y7P4dSscHQE&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=15) | [7](https://www.youtube.com/watch?v=_NdxK_0stYw&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=16) | [8](https://www.youtube.com/watch?v=j_KgLgNsbGA&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=17) | [9](https://www.youtube.com/watch?v=zYdC9C8-JH4&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=18) | [10](https://www.youtube.com/watch?v=kvtWoczuzHE&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=19) | [11](https://www.youtube.com/watch?v=Oh2GwnmYFi8&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=20) | [12]() | [13]() | [14]() | [15]()
+ 
 ## Topics
 
 ### Functions
@@ -34,7 +34,8 @@ Afternoon:
 * Setting property values
 
 ### Arrays
-* `Array.map` - [Docs on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map?v=control) | [Understanding JavaScript's `map()`](https://www.discovermeteor.com/blog/understanding-javascript-map/) blog post
+* `Array.map` - [Docs on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map?v=control)
+* [Understanding JavaScript's `map()`](https://www.discovermeteor.com/blog/understanding-javascript-map/) blog post
 
 ### DOM
 * Adding HTML content to an existing element with `someElement.innerHTML`
@@ -42,10 +43,6 @@ Afternoon:
 * Setting style properties with `someElement.style.stylePropertyName`
 * Appending child elements with `someElement.appendChild`
 * [REM vs EM - The Great Debate](https://zellwk.com/blog/rem-vs-em/)
-
-### Git and GitHub
-* [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-* [Getting your project on GitHub](https://guides.github.com/introduction/getting-your-project-on-github/)
 
 ## Examples
 
@@ -205,7 +202,7 @@ This will produce the following markup:
 ## Projects
 
 ### People Factory
-[Morning]() | [Afternoon]()
+[Morning](https://github.com/xtbc17s2/people-factory/tree/a6ecc8a2621c9d4ae9aaf3ad17a38b4c40855d0c) | [Afternoon]()
 
 ## Homework
 
