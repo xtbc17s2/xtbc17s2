@@ -202,7 +202,7 @@ This will produce the following markup:
 ## Projects
 
 ### People Factory
-[Morning](https://github.com/xtbc17s2/people-factory/tree/a6ecc8a2621c9d4ae9aaf3ad17a38b4c40855d0c) | [Afternoon]()
+[Morning](https://github.com/xtbc17s2/people-factory/tree/a6ecc8a2621c9d4ae9aaf3ad17a38b4c40855d0c) | [Afternoon](https://github.com/xtbc17s2/people-factory/tree/8056051f609dd9b0a90e5b63014d557e7d6c669b)
 
 ## Homework
 
