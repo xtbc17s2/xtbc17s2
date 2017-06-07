@@ -24,6 +24,11 @@ Afternoon:
 ### Git
 * Forking and cloning repositories
 
+### Markdown
+
+* [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 ### Foundation
 
 * The grid system
@@ -104,16 +109,13 @@ JavaScript's `this` is a source of consternation for many a developer, but it do
 * [Review: Objects and Functions](/03-review-objects-and-functions.pdf)
 
 ## Projects
-
-### Jeffervescence
-
-[Morning](https://github.com/xtbc17s2/jeffervescence) | [Afternoon]()
+[Jeffervescence (morning)](https://github.com/xtbc17s2/jeffervescence/tree/f55636b0c73de7469f17b659fcde8f4f5416aa8a) | [Dinoplasty (afternoon)](https://github.com/xtbc17s2/dinoplasty/tree/a3e44eaef9a01b840aafb43ce37e64b05eb9a739)
 
 These are links directly to the repo as of the commits where we left off today. Even after we add more commits tomorrow, these links will still point to this point in time.
 
-## Homework
+## Homework (morning class)
 
-* Store the flicks in an array, as well as in the DOM.
+* Store the flicks/dinosaurs in an array, as well as in the DOM.
 
 ### Mega Bonus Credit
 
@@ -122,8 +124,8 @@ These are links directly to the repo as of the commits where we left off today. 
 
 ### Super Mega Bonus Credit
 
-* Add buttons to move a flick up and down the list.
+* Add buttons to move a flick/dinosaur up and down the list.
 
 ### Super Mega Bonus Credit Hyper Fighting
 
-* Persist the flicks data using `window.localstorage`.  The flicks should stay in the list even when the page is refreshed.
+* Persist the flicks/dinosaurs data using `window.localstorage`.  The flicks/dinosaurs should stay in the list even when the page is refreshed.
