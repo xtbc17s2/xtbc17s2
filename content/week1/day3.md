@@ -1,6 +1,6 @@
 +++
 date = "2017-06-07T11:54:37-04:00"
-title = "Day 3: Jeffervescence"
+title = "Day 3: Jeffervescence / Dinoplasty"
 prev="week1/day2"
 toc = true
 weight = 3
@@ -13,11 +13,11 @@ weight = 3
 
 Morning:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 3, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]()
+* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 3, part 1](https://www.youtube.com/watch?v=FB7ImVZnFL8&index=20&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=XMztu7BsfOI&index=21&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=0bK4ukrJhvs&index=22&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=YWDaaebbrfU&index=23&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=FC6EipRsdGU&index=24&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=_75cy1m758c&index=25&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=4vPiawd-o-g&index=26&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=OGsKVIZ0Tf4&index=27&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [9](https://www.youtube.com/watch?v=coc1G3frXho&index=28&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [10](https://www.youtube.com/watch?v=Eh0O84Q63uU&index=29&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [11](https://www.youtube.com/watch?v=TYK24uUUeyI&index=30&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [12](https://www.youtube.com/watch?v=YOEl9-98PyY&index=31&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [13](https://www.youtube.com/watch?v=z81czdQrXw8&index=32&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
 
 Afternoon:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 3, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]() | [12]()
+* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 3, part 1](https://www.youtube.com/watch?v=7mSdl_ZAgaM&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=28) | [2](https://www.youtube.com/watch?v=1tP2nXuY-u8&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=29) | [3](https://www.youtube.com/watch?v=7kPSV7GgzFo&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=30) | [4](https://www.youtube.com/watch?v=AOnvCEFD_38&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=31) | [5](https://www.youtube.com/watch?v=p6Q9u93JvYs&index=32&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [6](https://www.youtube.com/watch?v=X7f988NzO0U&index=33&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [7](https://www.youtube.com/watch?v=rUm4rk_RY98&index=34&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [8](https://www.youtube.com/watch?v=Peh-q2jePis&index=35&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [9](https://www.youtube.com/watch?v=6zo-WsJZvtw&index=36&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [10](https://www.youtube.com/watch?v=lLkx2d2iPWQ&index=37&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [11](https://www.youtube.com/watch?v=VxQSYdYtGzQ&index=38&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa)
 
 ## Topics
 
@@ -104,16 +104,13 @@ boundGetX()       // 81
 JavaScript's `this` is a source of consternation for many a developer, but it doesn't have to be!  Make the effort to learn it early in your career, and it will pay off in the long run.  Here is a great article with lots of code examples that will help you get a grasp on the nuances of `this`.  [Let's Settle 'this' - Part One](https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97) | [Part Two](https://medium.com/@nashvail/lets-settle-this-part-two-2d68e6cb7dba)
 {{% /aside %}}
 
-## Presentations
-
-* [Review: Objects and Functions](/03-review-objects-and-functions.pdf)
-
 ## Projects
+
 [Jeffervescence (morning)](https://github.com/xtbc17s2/jeffervescence/tree/f55636b0c73de7469f17b659fcde8f4f5416aa8a) | [Dinoplasty (afternoon)](https://github.com/xtbc17s2/dinoplasty/tree/a3e44eaef9a01b840aafb43ce37e64b05eb9a739)
 
 These are links directly to the repo as of the commits where we left off today. Even after we add more commits tomorrow, these links will still point to this point in time.
 
-## Homework (morning class)
+## Homework
 
 * Store the flicks/dinosaurs in an array, as well as in the DOM.
 
