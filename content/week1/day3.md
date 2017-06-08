@@ -2,6 +2,7 @@
 date = "2017-06-07T11:54:37-04:00"
 title = "Day 3: Jeffervescence / Dinoplasty"
 prev="week1/day2"
+next="week1/day4"
 toc = true
 weight = 3
 
@@ -39,15 +40,6 @@ Afternoon:
 
 * Methods calling methods (_e.g._ `megaRoster.addChild` calls `this.buildListItem`)
 * Binding: Manually setting the value of `this` with `.bind`
-
-### DOM Manipulation
-
-* [parentElement](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement)
-* [childNodes](https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes)
-* [firstChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/firstChild)
-* [firstElementChild](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/firstElementChild)
-* [insertBefore](https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore)
-* [closest](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest) (experimental)
 
 ## Examples
 
