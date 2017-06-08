@@ -13,7 +13,7 @@ weight = 4
 
 Morning:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 4, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]()
+* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 4, part 1](https://www.youtube.com/watch?v=hx2_dkHtC7A&index=33&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=CN_zGBwsgz8&index=34&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=knVNVyIK7Oc&index=35&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=DMHgX3rFDA4&index=36&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=drroTX14F68&index=37&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=hetO7LTqJd0&index=38&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=xzGnGSuIREs&index=39&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=StjjjAkwfs4&index=40&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [9](https://www.youtube.com/watch?v=8WKBjqerA7Y&index=41&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [10](https://www.youtube.com/watch?v=jOF4ejEMRWw&index=42&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
 
 Afternoon:
 
@@ -239,22 +239,23 @@ rodent.bark()   // => Uncaught TypeError: rodent.bark is not a function
 
 ## Projects
 
-[Jeffervescence (morning)](https://github.com/xtbc17s2/jeffervescence/tree/f55636b0c73de7469f17b659fcde8f4f5416aa8a) | [Dinoplasty (afternoon)](https://github.com/xtbc17s2/dinoplasty/tree/a3e44eaef9a01b840aafb43ce37e64b05eb9a739)
+[Jeffervescence (morning)](https://github.com/xtbc17s2/jeffervescence/tree/4532fa3776d1d51912aabfa4d3932625e2e64b6d) | [Dinoplasty (afternoon)](https://github.com/xtbc17s2/dinoplasty/tree/fe3c1fd291393f5db7b3fc5ab1d7d3688974b7ca)
 
 ## Homework
 
 ### Base Requirement
 
-* Fix the issue with flick id values, which sometimes results in removing the wrong flick from the array (and thus from local storage).
+* Fix the issue with flick / dino id values, which sometimes results in removing the wrong item from the array (and thus from local storage).
+* Complete any previous homework levels that are not yet done
 
 ### Bonus Credit
 
-* Also track the year the flick was realeased
+* Also track the year the flick was released (Jeffervescence), or additional information about the dino (Dinoplasty)
 * Make it look nice (CSS!)
 
 ### Super Mega Bonus Credit
 
-* Edit the names of flicks that are already in the list (and make sure the changes persist across page loads).  Gee, it would be nice if we could make that span's _content editable_ somehow...
+* Edit the names of flicks / dinos that are already in the list (and make sure the changes persist across page loads).  Gee, it would be nice if we could make that span's _content editable_ somehow...
 
 ### Super Mega Bonus Credit Hyper Fighting
 
