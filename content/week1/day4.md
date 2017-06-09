@@ -44,25 +44,50 @@ Afternoon:
 ### Foundation
 * [Button](http://foundation.zurb.com/sites/docs/button.html)
 * [Button Group](http://foundation.zurb.com/sites/docs/button-group.html)
-* [Forms](http://foundation.zurb.com/sites/docs/forms.html)
+* [Un-bulleted List](http://foundation.zurb.com/sites/docs/typography-helpers.html#un-bulleted-list)
 
 ### CSS Selectors
-**[Child and sibling selectors](https://css-tricks.com/child-and-sibling-selectors/)**
-
-* [Descendant selector (_space_)](https://css-tricks.com/almanac/selectors/d/descendant/)
-* [`>` combinator - child selector](https://css-tricks.com/almanac/selectors/c/child/)
-* [`+` combinator - adjacent sibling selector)](https://css-tricks.com/almanac/selectors/a/adjacent-sibling/)
-* [`:first-child` pseudo-class selector](https://css-tricks.com/almanac/selectors/f/first-child/)
-* [`:last-child` pseudo-class selector](https://css-tricks.com/almanac/selectors/l/last-child/)
+* [Attribute selectors](https://css-tricks.com/attribute-selectors/)
 
 ### Array methods
 * [`Array.prototype` documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype?v=control)
+* [`unshift()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift?v=control)
 * [`reverse()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=control)
 
 ### Chrome Developer Tools
 * [Inspecting storage from the _Application_ panel](https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage)
 
 ## Examples
+
+### `this`
+
+The same function can have different values for `this` depending on how the function is called/invoked.
+
+[Try this example live on CodePen.](https://codepen.io/dstrus/pen/XgmLyv)
+
+{{< code js >}}
+const app = {
+  sayYeah() {
+    console.log(`Yeah, ${this}`)
+  },
+  
+  toString() {
+    return 'app object'
+  }
+}
+
+// When invoked as a method
+app.sayYeah() // "Yeah, app object"
+
+// When invoked as an event handler
+document
+  .querySelector('button')
+  .addEventListener('click', app.sayYeah)
+  // "Yeah, [object HTMLButtonElement]"
+
+// When manually set with bind
+app.sayYeah.bind('w00t')() // "Yeah, w00t"
+{{< /code >}}
 
 ### Data Attributes
 
