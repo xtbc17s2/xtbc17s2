@@ -2,7 +2,7 @@
 <div class="aside aside-{{ .Get "type" | default "note" }}">
   <h4>{{ .Get "title" | default "Note" }}</h4>
   {{ if .Get "emoji"}}
-  <div class="emoji">💰</div>
+  <div class="emoji">{{ .Get "emoji" }}</div>
   {{ end }}
   {{ if .Get "icon" }}
   <div class="emoji">
