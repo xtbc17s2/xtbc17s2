@@ -1,6 +1,6 @@
 +++
 date = "2017-06-08T09:55:27-04:00"
-title = "Day 4: LocalStorage and JavaScript Classes"
+title = "Day 4: LocalStorage"
 prev="week1/day3"
 toc = true
 weight = 4
@@ -13,11 +13,11 @@ weight = 4
 
 Morning:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 4, part 1](https://www.youtube.com/watch?v=hx2_dkHtC7A&index=33&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=CN_zGBwsgz8&index=34&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=knVNVyIK7Oc&index=35&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=DMHgX3rFDA4&index=36&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=drroTX14F68&index=37&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=hetO7LTqJd0&index=38&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=xzGnGSuIREs&index=39&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=StjjjAkwfs4&index=40&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [9](https://www.youtube.com/watch?v=8WKBjqerA7Y&index=41&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [10](https://www.youtube.com/watch?v=jOF4ejEMRWw&index=42&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 4, part 1](https://www.youtube.com/watch?v=hx2_dkHtC7A&index=33&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=CN_zGBwsgz8&index=34&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=knVNVyIK7Oc&index=35&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=DMHgX3rFDA4&index=36&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [5](https://www.youtube.com/watch?v=drroTX14F68&index=37&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=hetO7LTqJd0&index=38&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [7](https://www.youtube.com/watch?v=xzGnGSuIREs&index=39&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=StjjjAkwfs4&index=40&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [9](https://www.youtube.com/watch?v=8WKBjqerA7Y&index=41&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [10](https://www.youtube.com/watch?v=jOF4ejEMRWw&index=42&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
 
 Afternoon:
 
-* [Full Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 4, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 4, part 1](https://www.youtube.com/watch?v=WmMoHgsVEb0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=39) | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]()
 
 ## Topics
 
@@ -41,13 +41,6 @@ Afternoon:
   * [Using `JSON.parse`](http://www.dyn-web.com/tutorials/php-js/json/parse.php)
   * [API reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse), including optional argument for transforming the data as it's parsed
 
-### Font Awesome [↓](#font-awesome)
-* [Docs](http://fontawesome.io/)
-* [Examples](http://fontawesome.io/examples/)
-* [Icon list](http://fontawesome.io/icons/)
-* [Font Awesome intro](http://www.w3schools.com/icons/fontawesome_icons_intro.asp) on w3schools, including a live editor
-* [Icon Fonts &amp; Accessibility](http://fontawesome.io/accessibility/)
-
 ### Foundation
 * [Button](http://foundation.zurb.com/sites/docs/button.html)
 * [Button Group](http://foundation.zurb.com/sites/docs/button-group.html)
@@ -65,17 +58,8 @@ Afternoon:
 ### Array methods
 * [`Array.prototype` documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype?v=control)
 * [`reverse()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=control)
-* `find()` - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find?v=control) | [w3schools](https://www.w3schools.com/jsref/jsref_find.asp)
-* `findIndex()` - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex?v=control) | [w3schools](https://www.w3schools.com/jsref/jsref_findindex.asp)
-
-### JavaScript Classes [↓](#javascript-classes)
-* Class declarations
-* The `constructor` function
-* Methods
-* Instantiating objects from a class
 
 ### Chrome Developer Tools
-* [Accessing recently inspected elements with `$0`-`$4`](https://willd.me/posts/0-in-chrome-dev-tools) ([official docs](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference#0_-_4))
 * [Inspecting storage from the _Application_ panel](https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage)
 
 ## Examples
@@ -138,104 +122,9 @@ JSON.parse(retrievedObject) // => {thisIsCool: true}
 // JSON.parse converts the retrieved JSON string back into a JavaScript object
 {{< /code >}}
 
-### Font Awesome
-
-Font Awesome provides hundreds of vectorized, professional-looking icons for free.  Once you have the Font Awesome stylesheet downloaded and included in your project, use `<i>` tags with appropriate classes to render the icons you want.
-
-{{< code html >}}
-&lt;-- Sample link tag to include Font Awesome in HTML --&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;css/font-awesome.min.css&quot;&gt;&lt;i&gt;
-
-&lt;-- Renders a sweet camera icon --&gt;
-&lt;i class=&quot;fa fa-camera-retro&quot;&gt;&lt;/i&gt;
-{{< /code >}}
-
-### CSS Selectors
-
-{{< code html >}}
-&lt;div&gt;
-  &lt;p&gt;paragraph one&lt;/p&gt;
-  &lt;p&gt;paragraph two&lt;/p&gt;
-  &lt;p&gt;paragraph three&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;paragraph four&lt;/p&gt;
-{{< /code >}}
-
-{{< code css >}}
-p:first-child {
-  /* selects any paragraph that is the first child of its parent (paragraph one) */
-}
-
-p:last-child {
-  /* selects any paragraph that is the last child of its parent (paragraph three) */
-}
-
-div > p {
-  /* selects any paragraph that is a direct child of a div (paragraphs one, two, and three) */
-}
-{{< /code >}}
-
-### JavaScript Classes
-
-JavaScript is not a class-based language like C++, Java, or Ruby.  It uses [prototypal inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) instead.  However, as of ES2015, the `class` keyword was added to the language to provide a more concise syntax and similarity to popular class-based languages.
-
-A class is essentially a constructor of Objects.  Methods and properties in the class will be inherited by each object that is constructed by the class.  Object instances are created by using the `new` keyword.  Classes have a `constructor` method, which is called when instances are created and allows for configuration of the object.
-
-{{< code js >}}
-class Dog {
-  constructor() {
-    this.furColor = 'brown'
-  }
-
-  bark() {
-    console.log('WOOF')
-  }
-}
-
-const bowser = new Dog();
-bowser.furColor // => 'brown'
-bowser.bark()   // => 'WOOF'
-{{< /code >}}
-
-Classes can also inherit from another class.  Inheritance is specified using the `extends` keyword.  When a class inherits from another, it has access to the methods and properties of *both* classes, although if both classes implement the *same* property or method, the child class will take precedence.
-
-{{< code js >}}
-class Animal {
-  constructor() {
-    this.furColor = 'brown'
-  }
-
-  speak() {
-    console.log('Some sort of noise')
-  }
-}
-
-class Dog extends Animal {
-  constructor() {
-    this.furColor = 'black'
-  }
-
-  bark() {
-    console.log('WOOF')
-  }
-}
-
-const bowser = new Dog()
-bowser.furColor // => 'black'
-bowser.speak()  // => 'Some sort of noise'
-bowser.bark()   // => 'WOOF'
-
-const rodent = new Animal()
-rodent.furColor // => 'brown'
-rodent.speak()  // => 'Some sort of noise'
-rodent.bark()   // => Uncaught TypeError: rodent.bark is not a function
-{{< /code >}}
-
-
 ## Presentations
 
 * [Review: Objects and Functions](/03-review-objects-and-functions.pdf)
-* [Intro to localStorage](/04-local-storage.pdf)
 
 ## Projects
 
