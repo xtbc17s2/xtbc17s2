@@ -1,7 +1,8 @@
 +++
 date = "2017-06-08T09:55:27-04:00"
 title = "Day 4: LocalStorage"
-prev="week1/day3"
+prev = "week1/day3"
+next = "week2"
 toc = true
 weight = 4
 
@@ -17,7 +18,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 4, part 1](https://www.youtube.com/watch?v=WmMoHgsVEb0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=39) | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 4, part 1](https://www.youtube.com/watch?v=WmMoHgsVEb0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=39) | [2](https://www.youtube.com/watch?v=CTktjvBSO0Y&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=40) | [3](https://www.youtube.com/watch?v=wxu06g4zWn0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=41) | [4](https://www.youtube.com/watch?v=btG4FCy00k0&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=42) | [5](https://www.youtube.com/watch?v=IgvT5CU5-D4&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=43) | [6](https://www.youtube.com/watch?v=r7tZP75mloc&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=44) | [7](https://www.youtube.com/watch?v=_Hi1-WJY4_s&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=45) | [8](https://www.youtube.com/watch?v=c16vE7s-nDQ&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=46)
 
 ## Topics
 
