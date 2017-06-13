@@ -17,7 +17,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 6, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 6, part 1](https://www.youtube.com/watch?v=L8IgFUESlqg&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=61) | [2](https://www.youtube.com/watch?v=GSVV8AvfHck&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=62) | [3](https://www.youtube.com/watch?v=lcUfStMvwpk&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=63) | [4](https://www.youtube.com/watch?v=dINvMWHQrw4&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=64) | [5](https://www.youtube.com/watch?v=C1yAWLXCg5w&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=65) | [6](https://www.youtube.com/watch?v=G5tJdaaCyzg&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=66) | [7](https://www.youtube.com/watch?v=i-fgZNUJuds&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=67) | [8](https://www.youtube.com/watch?v=Zkjgg3_TWPE&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=68)
 
 ## Topics
 
@@ -221,10 +221,10 @@ export default App
 
 * [Jeffervescence (final)](https://github.com/xtbc17s2/jeffervescence)
 * [Dinoplasty (final)](https://github.com/xtbc17s2/dinoplasty)
-* Reactrobats on CodePen: [morning](https://codepen.io/dstrus/pen/yXJRjY)
+* Reactrobats on CodePen: [morning](https://codepen.io/dstrus/pen/yXJRjY) | [afternoon](https://codepen.io/dstrus/pen/Pjzvmd/)
 * [Dwarf Underground](https://github.com/xtbc17s2/dwarf-underground/tree/3da6c4b4447d32404a141344867a457fdb9c3e60)
 
-## Homework
+## Homework: Dwarf Underground
 
 * Split the page into at least 6 total components
 
