@@ -220,6 +220,7 @@ export default App
 ## Projects
 
 * [Jeffervescence (final)](https://github.com/xtbc17s2/jeffervescence)
+* [Dinoplasty (final)](https://github.com/xtbc17s2/dinoplasty)
 * Reactrobats on CodePen: [morning](https://codepen.io/dstrus/pen/yXJRjY)
 * [Dwarf Underground](https://github.com/xtbc17s2/dwarf-underground/tree/3da6c4b4447d32404a141344867a457fdb9c3e60)
 
