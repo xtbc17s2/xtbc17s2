@@ -4,6 +4,7 @@ title = "Day 5: ContentEditable, Keyboard Events, Font Awesome, and JavaScript C
 toc = true
 weight = 1
 prev = "week2"
+next = "week2/day6/"
 
 +++
 
