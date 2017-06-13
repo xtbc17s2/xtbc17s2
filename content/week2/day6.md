@@ -49,6 +49,9 @@ Afternoon:
   * JSX - [Docs: Introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
   * Props - [Docs: Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
   * State - [Docs: State and Lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
+  * Events - [Docs: Handling Events](https://facebook.github.io/react/docs/handling-events.html)
+  * Refs - [Docs: Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
+  * Keys - [Docs: Lists and Keys](https://facebook.github.io/react/docs/lists-and-keys.html)
 * [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ## Examples
