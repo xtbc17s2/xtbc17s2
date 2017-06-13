@@ -13,11 +13,11 @@ weight = 2
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 6, part 1](https://www.youtube.com/watch?v=IkPZMjwbPUA&index=54&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 6, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]()
 
 ## Topics
 
@@ -219,9 +219,9 @@ export default App
 
 ## Projects
 
-* Megaroster (final): [morning](https://github.com/xtbc17s1/megaroster/tree/3ccd25f25db46ecff45a5b86ba32affcfb730f2d) | [afternoon](https://github.com/xtbc17s1/megaroster/commit/fc97404dada2d594970f64e9e4fbd3e9b3f6a271)
-* Reactrobats on CodePen: [morning](https://codepen.io/dstrus/pen/BRvLNg/) | [afternoon](https://codepen.io/dstrus/pen/XRoMmR/)
-* [Dwarf Underground](https://github.com/xtbc17s1/dwarf-underground/tree/3da6c4b4447d32404a141344867a457fdb9c3e60)
+* [Jeffervescence (final)](https://github.com/xtbc17s2/jeffervescence)
+* Reactrobats on CodePen: [morning](https://codepen.io/dstrus/pen/yXJRjY)
+* [Dwarf Underground](https://github.com/xtbc17s2/dwarf-underground/tree/3da6c4b4447d32404a141344867a457fdb9c3e60)
 
 ## Homework
 
