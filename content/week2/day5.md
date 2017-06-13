@@ -1,6 +1,6 @@
 +++
 date = "2017-06-12T09:49:40-04:00"
-title = "Day 5: Flexbox, Font Awesome, and JavaScript Classes"
+title = "Day 5: ContentEditable, Keyboard Events, Font Awesome, and JavaScript Classes"
 toc = true
 weight = 1
 prev = "week2"
@@ -20,6 +20,10 @@ Afternoon:
 * [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 5, part 1](https://www.youtube.com/watch?v=OLkm0kCn730&index=47&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [2](https://www.youtube.com/watch?v=-TXW1dSJw1w&index=48&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [3](https://www.youtube.com/watch?v=OatOYae2-mM&index=49&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [4](https://www.youtube.com/watch?v=E5In18t1UNs&index=50&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [5](https://www.youtube.com/watch?v=NdAKychEjYs&index=51&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [6](https://www.youtube.com/watch?v=TwOIfN9Ii6s&index=52&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [7](https://www.youtube.com/watch?v=2WztZ4ChjEI&index=53&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [8](https://www.youtube.com/watch?v=wvCu2hHTwsU&index=54&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [9](https://www.youtube.com/watch?v=O3MeOzlpLBo&index=55&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [10](https://www.youtube.com/watch?v=uCj16uL_UsU&index=56&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [11](https://www.youtube.com/watch?v=N1sJhA_rB04&index=57&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [12](https://www.youtube.com/watch?v=vkme85HqCLc&index=58&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [13](https://www.youtube.com/watch?v=w9pgLqdJgss&index=59&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [14](https://www.youtube.com/watch?v=P1mFec8-MtQ&index=60&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa)
 
 ## Topics
+
+### DOM Manipulation
+* `contenteditable` - [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
+* Keyboard events
 
 ### Flexbox
 * [MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
@@ -58,6 +62,27 @@ Afternoon:
 * Instantiating objects from a class
 
 ## Examples
+
+### `contentEditable`
+`contentEditable` is a property that, like the name suggests, allows the content of an HTML element to be edited through user interaction with the DOM (similar to a text input field).
+
+{{< code html >}}
+&lt;div class=&quot;person-name&quot;&gt;Mark&lt;/div&gt;
+&lt;button&gt;Click to Edit Name&lt;/button&gt;
+{{< /code >}}
+
+{{< code js >}}
+const nameDiv = document.querySelector('.person-name')
+console.log(nameDiv.isContentEditable) // => false
+
+const button = document.querySelector('button')
+button.addEventListener('click', (ev) => {
+  nameDiv.contentEditable = true
+  console.log(nameDiv.isContentEditable)
+})
+
+button.click() // => true (and div content will be editable)
+{{< /code >}}
 
 ### Font Awesome
 
