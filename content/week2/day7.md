@@ -21,6 +21,10 @@ Afternoon:
 
 ## Topics
 
+### GitHub Pages
+
+* [Getting Started With GitHub Pages](https://guides.github.com/features/pages/)
+
 ### [React](https://facebook.github.io/react/)
 
 * Using `map` with components
