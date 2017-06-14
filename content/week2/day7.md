@@ -17,7 +17,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 7, part 1](https://www.youtube.com/watch?v=03H9Wn4j97E&index=71&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [2]() | [3]() | [4]()
 
 ## Topics
 
