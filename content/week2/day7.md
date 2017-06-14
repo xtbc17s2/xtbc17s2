@@ -13,7 +13,7 @@ weight = 3
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 7, part 1](https://www.youtube.com/watch?v=Vd5CsyRX91A&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=55) | [2](https://www.youtube.com/watch?v=8opVQik2j2w&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=56) | [3](https://www.youtube.com/watch?v=SzHq8aXcb3M&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=57) | [4](https://www.youtube.com/watch?v=Yhb5zNq5MoU&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=58)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 7, part 1](https://www.youtube.com/watch?v=Vd5CsyRX91A&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=55) | [2](https://www.youtube.com/watch?v=8opVQik2j2w&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=56) | [3](https://www.youtube.com/watch?v=SzHq8aXcb3M&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=57) | [4](https://www.youtube.com/watch?v=Yhb5zNq5MoU&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=58) | [5](https://www.youtube.com/watch?v=uVO4nLeAplI&index=59&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [6](https://www.youtube.com/watch?v=kXCIQD4inzs&index=60&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) [7](https://www.youtube.com/watch?v=f6f-LSxe2Bw&index=61&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [8](https://www.youtube.com/watch?v=oOLsyokpoGI&index=62&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84)
 
 Afternoon:
 
