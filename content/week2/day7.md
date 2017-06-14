@@ -26,6 +26,8 @@ Afternoon:
 * Using `map` with components
 * Stateless Functional Components
 * Conditional rendering
+* [Controlled](https://facebook.github.io/react/docs/forms.html) vs [Uncontrolled](https://facebook.github.io/react/docs/uncontrolled-components.html) Forms
+* [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
 ### JavaScript
 
@@ -303,11 +305,13 @@ npm install react
 * Local cache of downloaded packages - faster and can still work with no internet connection after initial installation
 * Parallel installation - Dependency installation can happen in parallel, greatly increasing speed
 
-To install yarn (npm was already installed as part of setup instructions), type the following command:
+To install yarn (npm was already installed as part of setup instructions), type the following command (Mac):
 
 {{< term >}}
-npm install -g yarn
+brew install yarn
 {{< /term >}}
+
+Or on Windows, [download the installer](https://yarnpkg.com/latest.msi).
 
 Once installed, you can use yarn with following commands:
 
@@ -326,14 +330,13 @@ yarn start
 
 * [Dwarf Underground](https://github.com/xtbc17s2/dwarf-underground/)
 
-## Homework
+## Day 7 Homework
 
-* Make the form work!
-* Stop hard-coding notes altogether. Use only the notes that were added via the form.
+Finish making these components look acceptable.
 
 ### Bonus Credit
 
-* Wire up the _new note_ button. Make it clear out the form.
+* Make the form work!
 
 ### Super Mega Bonus Credit
 
@@ -341,4 +344,4 @@ yarn start
 
 ### Super Mega Bonus Credit Hyper Fighting
 
-When you click on a note in the list, populate the form with the data from that note.
+* When you click on a note in the list, populate the form with the data from that note.
