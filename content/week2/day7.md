@@ -328,15 +328,16 @@ yarn start
 
 ## Homework
 
-Make the form work!
+* Make the form work!
+* Stop hard-coding notes altogether. Use only the notes that were added via the form.
 
 ### Bonus Credit
 
-Make the _new note_ button clear out the form.
+* Wire up the _new note_ button. Make it clear out the form.
 
 ### Super Mega Bonus Credit
 
-Stop hard-coding notes altogether. Use only the notes that were added via the form.
+* Make a working _delete_ button.
 
 ### Super Mega Bonus Credit Hyper Fighting
 
