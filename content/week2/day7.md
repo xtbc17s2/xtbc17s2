@@ -336,6 +336,7 @@ yarn start
 ## Projects
 
 * [Dwarf Underground](https://github.com/xtbc17s2/dwarf-underground/)
+* Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/08fc517b51ebed3814156603333b2f92ce44d881) | [afternoon](https://github.com/xtbc17s2/noteherder/tree/a7ba41613b241e7578ff18e1f6a98bd341285dea)
 
 ## Day 7 Homework
 
