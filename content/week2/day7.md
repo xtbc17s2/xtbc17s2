@@ -2,6 +2,7 @@
 date = "2017-05-15T11:13:46-04:00"
 title = "Day 7: React"
 prev="/week2/day6/"
+next="/week2/day8/"
 toc = true
 weight = 3
 
@@ -40,9 +41,7 @@ Afternoon:
 
 * Named and default exports
 * Named and default imports
-* Property initializers
 * Spread operator
-* Destructuring assignment
 
 ### Package Managers
 
@@ -207,44 +206,6 @@ You can also combine default and named imports in the same line.
 import MyClass, { myNumber, sayHi } from 'myModule'
 {{< /code >}}
 
-#### Property initializers
-
-From the proposal:
-
-> "Class instance fields" describe properties intended to exist on instances of a class (and may optionally include initializer expressions for said properties).
-
-We can take advantage of this in React.
-
-[**Read more: Using ES7 property initializers in React**](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
-
-We can use a property initializer to set the initial value of state without writing a constructor:
-
-{{< code jsx >}}
-class Song extends React.Component {
-  state = {
-    versesRemaining: 5,
-  }
-}
-{{< /code >}}
-
-We can even set default props and use those in the initial state:
-
-{{< code jsx >}}
-class Song extends React.Component {
-  static defaultProps = {
-    autoPlay: false,
-    verseCount: 10,
-  }
-  state = {
-    versesRemaining: this.props.verseCount,
-  }
-}
-{{< /code >}}
-
-{{% aside danger "Subject to  minor changes" %}}
-[Property initializers](https://github.com/tc39/proposal-class-public-fields) are a [Stage 2 proposal](https://tc39.github.io/process-document/) for ECMAScript, meaning that it's still a _draft_ and is subject to minor changes before becoming standardized. Facebook itself is already using these techniques in production, however.
-{{% /aside %}}
-
 #### Spread operator
 
 The [*spread operator*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator) was added in ES6 to allow an expression to be expanded in places where multiple arguments (for function calls) or multiple elements (for array literals) or multiple variables (for destructuring assignment) are expected.
@@ -275,22 +236,6 @@ If you are in a project using Babel (like a React project created with `create-r
 {{< code js >}}
 this.state = {'a': true, party: 'hard'}
 const stateCopy = {...this.state} // makes a copy of this.state
-{{< /code >}}
-
-#### Destructuring assignment
-
-[Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
-
-{{< code js >}}
-const myObj = {
-  a: true,
-  b: 'Destructuring!'
-}
-
-let { a, b } = myObj
-
-console.log(a) // => true
-console.log(b) // => 'Destructuring!'
 {{< /code >}}
 
 ### Package Managers
