@@ -13,11 +13,11 @@ weight = 4
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 8, part 1](https://www.youtube.com/watch?v=sONty6TCQQI&index=63&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=b_FlbuzvNVc&index=64&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=wqUC6_5HWpo&index=65&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4]() | [5]() | [6]() [7]() | [8]() | [9]() | [10]() | [11]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 8, part 1](https://www.youtube.com/watch?v=sONty6TCQQI&index=63&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [2](https://www.youtube.com/watch?v=b_FlbuzvNVc&index=64&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [3](https://www.youtube.com/watch?v=wqUC6_5HWpo&index=65&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [4](https://www.youtube.com/watch?v=nc14iaOPgGg&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=66) | [5](https://www.youtube.com/watch?v=B-MB7vTKMJo&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=67) | [6](https://www.youtube.com/watch?v=vnNYG00P2G4&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=68) [7](https://www.youtube.com/watch?v=4_uPb5ETF48&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=69) | [8](https://www.youtube.com/watch?v=YuqSI0BupbQ&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=70) | [9](https://www.youtube.com/watch?v=w4VaKGQOTqk&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=71) | [10](https://www.youtube.com/watch?v=D1XSqnNbNBE&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=72)
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 8, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 8, part 1](https://www.youtube.com/watch?v=3WU51t1U8F0&index=82&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [2](https://www.youtube.com/watch?v=K6VQsvhOeCo&index=83&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [3](https://www.youtube.com/watch?v=_Qm6fMaljtg&index=84&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [4](https://www.youtube.com/watch?v=TtfqQFsFxbc&index=85&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [5](https://www.youtube.com/watch?v=UFw3hMsdCxc&index=86&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [6](https://www.youtube.com/watch?v=-0Hz3StubvQ&index=87&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [7](https://www.youtube.com/watch?v=74LnKRKU7e8&index=88&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [8](https://www.youtube.com/watch?v=jdJR9WOU1vs&index=89&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [9](https://www.youtube.com/watch?v=h3J-oZawyq8&index=90&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [10](https://www.youtube.com/watch?v=d6DbNn41sIU&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=91) | [11](https://www.youtube.com/watch?v=FZD4vcLW8EI&list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa&index=92)
 
 ## Topics
 
@@ -164,7 +164,9 @@ class Something extends React.Component {
 }
 {{< /code >}}
 
+## Projects
 
+* Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/a87cefc6d20c718be2f42405b20d3d340b136e72) | [afternoon](https://github.com/xtbc17s2/noteherder/tree/436da21e0b53cff727f1af6be78dded4a31cc966)
 
 ## Homework
 
