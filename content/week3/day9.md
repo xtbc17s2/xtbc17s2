@@ -17,7 +17,7 @@ Morning:
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 9, Part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | Coming soon...
 
 ## Topics
 
@@ -222,7 +222,11 @@ componentWillMount() {
   auth.onAuthStateChanged(
     (user) => {
       if (user) {
+        // finish signing in
         this.authHandler(user)
+      } else {
+        // finished signing out
+        this.setState({ uid: null })
       }
     }
   )
@@ -254,7 +258,7 @@ authHandler = (user) => {
 
 #### Step 8: Signing out
 
-Signing out when using Firebase for authentication is quite simple - just call `auth.signOut()`!  Once the promise returned by `signOut` has resolved, you can handle any additional cleanup.  In _Noteherder_, we just set `state.uid` back to `null`.
+Signing out when using Firebase for authentication is also simple - just call `auth.signOut()`!  Once the promise returned by `signOut` has resolved, you can handle any additional cleanup.  In _Noteherder_, we stop syncing with Firebase and set `state.notes` back to an empty object.
 
 **App.js**
 
@@ -264,7 +268,13 @@ Signing out when using Firebase for authentication is quite simple - just call `
 signOut = () => {
   auth
     .signOut()
-    .then(() => this.setState({ uid: null }))
+    .then(
+      () => {
+        // stop syncing with Firebase
+        base.removeBinding(this.ref)
+        this.setState({ notes: {} })
+      }
+    )
 }
 
 // ...
@@ -272,7 +282,7 @@ signOut = () => {
 
 ## Projects
 
-Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/77909bea0c93765a9153c9fcb9466e51d5e133e0) | [afternoon]()
+Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/77909bea0c93765a9153c9fcb9466e51d5e133e0) | [afternoon](https://github.com/xtbc17s2/noteherder/tree/e40644f3f4ab884609d5450fab3c744622ad448a)
 
 ## Homework
 
