@@ -1,10 +1,9 @@
 +++
 date = "2017-06-19T10:12:30-04:00"
-title = "Firebase"
+title = "Firebase and Authentication"
 toc = true
 weight = 1
 prev = "week3"
-next = "week3/day10"
 +++
 
 <date>Monday, June 19, 2017</date>
@@ -21,7 +20,7 @@ Afternoon:
 
 ## Topics
 
-### Firebase [↓](#firebase-1)
+### Firebase [↓](#firebase)
 
 * Getting started
 * Database rules
