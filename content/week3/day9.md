@@ -21,18 +21,22 @@ Afternoon:
 
 ## Topics
 
-### Firebase
+### Firebase [↓](#firebase-1)
 
 * Getting started
 * Database rules
 * Re-base for syncing React state with Firebase
 
-### Firebase Authentication
+### Firebase Authentication [↓](#authentication)
 
 * 'firebase/auth'
 * `authWithPopup`
 * signing in and out
 * handling auth state changes
+
+### Deployment
+
+* GitHub Pages [↓](#deployment-github-pages)
 
 ## Firebase
 
@@ -279,6 +283,101 @@ signOut = () => {
 
 // ...
 {{< /code >}}
+
+### Deployment: GitHub Pages
+
+Deploying an app like Noteherder is fairly simple at this stage, as it runs entirely on the client side (the browser). _create-react-app_ makes it even easier.
+
+{{% aside info Note %}}
+_create-react-app_ includes detailed instructions for [deploying with GitHub Pages](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages) in the README.
+{{% /aside %}}
+
+Start by running the included _build_ script.
+
+{{< term >}}
+yarn build     # build with yarn
+npm run build  # build with npm
+{{< /term >}}
+
+This builds the browser-ready version of our app in a `build` directory. (There are several aspects of our `src` directory that make it less than ideal for production use. For example, recall that our app is written using JSX, which browsers don't understand.)
+
+It also prints out these instructions:
+
+{{< term output="1,2,3,4,5" >}}
+The project was built assuming it is hosted at the server root.
+To override this, specify the homepage in your package.json.
+For example, add this to build it for GitHub Pages:
+
+  "homepage" : "http://myname.github.io/myapp",
+{{< /term >}}
+
+To host the app on GitHub Pages ([learn more about GitHub Pages](https://pages.github.com/)), add the "homepage" line to `package.json`, just like it says, substituting your GitHub user name and repository name. In my case:
+
+{{< code lang="json" class="line-numbers" line="3" >}}
+  "name": "noteherder",
+  "version": "0.1.0",
+  "homepage": "http://xtbc17s2.github.io/noteherder",
+{{< /code >}}
+
+Now run `build` again.
+
+{{< term >}}
+yarn build     # build with yarn
+npm run build  # build with npm
+{{< /term >}}
+
+This time, the output will include some more specific instructions.
+
+{{< term output="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18" >}}
+The build folder is ready to be deployed.
+To publish it at http://xtbc17s2.github.io/noteherder, run:
+
+  yarn add --dev gh-pages
+
+Add the following script in your package.json.
+
+    // ...
+    "scripts": {
+      // ...
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    }
+
+Then run:
+
+  yarn run deploy
+
+{{< /term >}}
+
+Cool! Let's add the `gh-pages` package.
+
+{{< term >}}
+yarn add --dev gh-pages          # with yarn, or...
+npm install --save-dev gh-pages  # with npm
+{{< /term >}}
+
+Now let's add those two scripts to `package.json`.
+
+{{< code lang="json" class="line-numbers" line="6-7" >}}
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+{{< /code >}}
+
+Now whenever you're ready to deploy, you can just run `yarn deploy`!
+
+{{< term >}}
+yarn deploy     # deploy with yarn
+npm run deploy  # deploy with npm
+{{< /term >}}
+
+And your app will be available at the homepage listed in your `package.json`&mdash;in my case, [http://xtbc17s2.github.io/noteherder](http://xtbc17s2.github.io/noteherder).
+
 
 ## Projects
 
