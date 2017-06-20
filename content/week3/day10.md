@@ -13,11 +13,11 @@ weight = 2
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 10, part 1](https://www.youtube.com/watch?v=qCCHiKkg0uk&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=86) | [2](https://www.youtube.com/watch?v=7uVysc7bU9E&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=87) | [3](https://www.youtube.com/watch?v=42upKQetTgw&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=88) | [4](https://www.youtube.com/watch?v=ipyDi0ttczg&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=89) | [5](https://www.youtube.com/watch?v=xUnVgk5QdYA&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=90) | [6]() | [7]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84) | [Day 10, part 1](https://www.youtube.com/watch?v=qCCHiKkg0uk&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=86) | [2](https://www.youtube.com/watch?v=7uVysc7bU9E&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=87) | [3](https://www.youtube.com/watch?v=42upKQetTgw&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=88) | [4](https://www.youtube.com/watch?v=ipyDi0ttczg&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=89) | [5](https://www.youtube.com/watch?v=xUnVgk5QdYA&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=90) | [6](https://www.youtube.com/watch?v=0rV4y726vaM&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=91) | [7](https://www.youtube.com/watch?v=wA3OZjAjSUA&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=92) | [8](https://www.youtube.com/watch?v=ley_aAVA9Y4&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=93) | [9](https://www.youtube.com/watch?v=Ht58BEUY0Ss&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=94) | [10](https://www.youtube.com/watch?v=99a-nx3-Slw&list=PLuT2TqJuwaY9SEkynJl1LudbfzWqc4l84&index=95)
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | [Day 10, part 1]() | [2]() | [3]() | [4]() | [5]() | [6]() | [7]() | [8]() | [9]() | [10]() | [11]() | [12]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY9uIH9AFDZUyfalE-tY8REa) | Coming soon...
 
 ## Topics
 
