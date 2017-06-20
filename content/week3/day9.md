@@ -4,6 +4,7 @@ title = "Firebase and Authentication"
 toc = true
 weight = 1
 prev = "week3"
+next = "week3/day10"
 +++
 
 <date>Monday, June 19, 2017</date>
