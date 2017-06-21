@@ -1,7 +1,8 @@
 +++
 date = "2017-05-30T09:40:47-04:00"
 title = "Routing and Fetching"
-prev="/week3/day9"
+prev = "/week3/day9"
+next = "/week3/day11"
 toc = true
 weight = 2
 
