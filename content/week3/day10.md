@@ -145,8 +145,8 @@ If no second argument is provided to `fetch()`, it defaults to a standard `GET` 
 
 ## Projects
 
-* Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/8a5102f855d6e9b6842f03e47d6e1d4d75b78c17) | [afternoon]()
-* API Party [morning]() | [afternoon] ()
+* Noteherder [morning](https://github.com/xtbc17s2/noteherder/tree/8a5102f855d6e9b6842f03e47d6e1d4d75b78c17) | [afternoon](https://github.com/xtbc17s2/noteherder/tree/906dfc12f05c803cd5476084fe3cfa87d10ec351)
+* API Party [morning](https://github.com/xtbc17s2/api-party/tree/e09677b1c2fc479ac9605cef42f914cb7143c5d3) | [afternoon] (https://github.com/xtbc17s2/api-party/tree/ae41aa2338b7cd002b0320d0bd7f2ea4b658b692)
 
 ## Homework
 

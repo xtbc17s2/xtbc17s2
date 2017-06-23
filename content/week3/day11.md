@@ -4,10 +4,11 @@ title = "Routing in Noteherder"
 toc = true
 weight = 3
 prev = "week3/day10"
+next = "week3/day11"
 
 +++
 
-<date>Tuesday, June 20, 2017</date>
+<date>Wednesday, June 21, 2017</date>
 
 ## Lecture Videos
 
